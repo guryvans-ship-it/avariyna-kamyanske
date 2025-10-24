@@ -15,5 +15,6 @@ log_level = 2
 warn_on_root = 1
 
 [android]
-sdk.build_tools = 33.0.2
 android.accept_sdk_license = True
+sdk.build_tools = 33.0.2
+sdk.version = 33
