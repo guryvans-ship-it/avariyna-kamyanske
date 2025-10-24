@@ -16,3 +16,4 @@ warn_on_root = 1
 
 [android]
 sdk.build_tools = 33.0.2
+android.accept_sdk_license = True
